@@ -1,0 +1,8 @@
+.env
+.flaskenv
+attempts/
+callenv/
+instance/
+database.py
+main.py
+
